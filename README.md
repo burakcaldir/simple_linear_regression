@@ -24,7 +24,7 @@ two variables
                                    `y = B0 + B1 * x`
                                    
  ### Plot Predictions as a Line With Our Data.
- 
+     - `Below is a simple scatter plot of x versus y.`
       ![Plot Dataset](/image/SLR-Model.png)
    
  ### References:  
