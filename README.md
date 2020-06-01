@@ -24,7 +24,8 @@ two variables
                                    `y = B0 + B1 * x`
                                    
  ### Plot Predictions as a Line With Our Data.
-      ![Prediction](/image/SLR-Model.png)
+ 
+      ![Plot of the Dataset](/image/Dataset-SLR.png)
    
  ### References:  
    - https://machinelearningmastery.com
