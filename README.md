@@ -1,47 +1,64 @@
-# SIMPLE LINEAR REGRESSION OVERVIEW
+# Simple Linear Regression
+  
+### What is Simple Linear Regression?  
+  Simple linear regression is a statistical method for obtaining a formula to predict
+values of one variable from another where there is a causal relationship between the
+two variables
+    
+### Advantages of Spark:  
+   - Power and speed  
+   ![Running Time Comparison](/image/runningtime.png)  
+   - Language flexibility(python,java,scala)  
+   - Faster than map/reduce  
+   - Scalibility  
+     
+### Components of Spark:  
+  ![Spark Architecture](/image/sparkarcht.png)  
+   - Spark Streaming : Process live streaming data    
+   - Spark Sql : Run queries on Hadoop deployment    
+   - Mllib : Machine learning libraries built on top of Spark  
+   - Graphx : Graph computation engine  
+  
+### History of Spark APIs:  
+   - RDD (2011)  
+     - Distribute collection of JVM objects  
+     - Functional Operators  
+   - DataFrame (2013)
+     - Distribute collection of Row objects  
+     - Expression-based operations and UDFs  
+     - Logical plans and optimizer  
+     - Fast/efficient internal representations  
+   - DataSet (2015)  
+     - Internally rows, externally JVM objects  
+     - Type safe + fast
+     - But slower than DF. Not as good for interactive analysis  
+### Spark & Clusters:  
+   Spark supports the following resource/cluster managers:  
+   - Spark Standalone – a simple cluster manager included with Spark  
+   - Apache Mesos – a general cluster manager that can also run Hadoop applications  
+   - Apache Hadoop YARN – the resource manager in Hadoop  
+   - Kubernetes – an open source system for automating deployment, scaling, and management of containerized applications  
+   - Spark also has a local mode, where the driver and executors run as threads on your computer instead of a cluster, which is useful for developing your applications from a personal computer.  
 
-## HELLO
-
-### HELLO
-
-
-![Hello world](https://github.com/burakcaldir/simple_linear_regression/blob/master/1.jpeg)
-
-
-![Hello world](https://github.com)
-
-**Ali**
-
-*Ali*
-
-* Ali
-* Burak
-
-
-## [Unreleased]
-
-## [1.1.0] - 2019-02-15
-
-### Added
-
-- 
-
-### Changed
--
-
-## [1.0.0] - 2017-06-20
-
-### Changelog
-
-| __Date__ | __Contributer__ | __Subject__ |
-|-------------|------------|------------|
-| 01.01.2020        | Ali     | Simple Lineer    |
-| PCA2         | 0.192634  | 69.55      |
-| PCA3    | 0.126686 | 82.22 |
-| PCA4        | 0.0461349  | 86.83     |
-| PCA5    | 0.0338315 | 90.21|
-| PCA6         | 0.0235394  | 92.56 |
-| PCA7    | 0.0223254 | 94.79 |
-| PCA8         | 0.0169766 | 96.49     |
-| PCA9    | 0.0149214| 97.98 |
-
+### Important Terms:  
+   - RDD : Resilient Distributed Dataset
+   - Transformation : Spark operation that produces an RDD
+   - Action : Spark operation that produces a local object
+   - Spark Job: Sequence of transformations on data with a final action 
+  
+### Spark setup for Windows&Anaconda:  
+   - Install pyspark using pip install pyspark  
+   - Install Java
+   - Set environment variables:  
+    - PYSPARK_PYTHON = python3  
+    - SPARK_HOME = C:\Users\Pc\Anaconda3\Lib\site-packages\pyspark  
+   
+ ### Pyspark repositories :  
+ *[1.NLP using pyspark in Jupyter notebook](/NLP_basics.ipynb)  
+ *[1.K-means Clustering using pyspark in Jupyter notebook](/Kmeans_clustering.ipynb) 
+ ### Spark & Hadoop :  
+ *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
+ ### References:  
+   - spark.apache.org
+   - pypi.org  
+   - databricks.com
