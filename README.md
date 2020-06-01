@@ -25,7 +25,7 @@ two variables
                                    
  ### Plot Predictions as a Line With Our Data.
  
-      ![Plot of the Dataset](/image/Dataset-SLR.png)
+      ![Plot Dataset](/image/Dataset-SLR.png)
    
  ### References:  
    - https://machinelearningmastery.com
