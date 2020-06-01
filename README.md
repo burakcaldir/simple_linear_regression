@@ -10,7 +10,7 @@ two variables
    
 X            | Y
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+1 | 1
 Content in the first column | Content in the second column
    
    
