@@ -5,12 +5,12 @@
 values of one variable from another where there is a causal relationship between the
 two variables
     
-### Advantages of Spark:  
-   - Power and speed  
+### In this post, you will discover exactly how linear regression works step-by-step. After reading this post you will know:
+   - How to calculate a simple linear regression step-by-step. 
    ![Running Time Comparison](/image/runningtime.png)  
-   - Language flexibility(python,java,scala)  
-   - Faster than map/reduce  
-   - Scalibility  
+   - How to perform all of the calculations using a spreadsheet. 
+   - How to make predictions on new data using your the model. 
+   - A shortcut that greatly simplifies the calculation.
      
 ### Components of Spark:  
   ![Spark Architecture](/image/sparkarcht.png)  
