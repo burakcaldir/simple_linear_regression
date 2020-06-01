@@ -6,7 +6,7 @@ values of one variable from another where there is a causal relationship between
 two variables
 
 ### Plot of the Dataset for Simple Linear Regression
-   - Below is the raw data.
+   - `Below is the raw data.`
    
      X            | Y
      ------------ | -------------
