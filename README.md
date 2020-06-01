@@ -25,7 +25,7 @@ two variables
                                    
  ### Plot Predictions as a Line With Our Data
  
-   - `Below is a simple scatter plot of x versus y.`     
+   - `After making predictions we can plot these predictions as a line with our data. This gives us a visual idea of how well the line models our data.`     
    ![Plot Dataset](/image/SLR-Model.png)
    
  ### References:  
