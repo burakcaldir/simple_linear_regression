@@ -6,8 +6,10 @@ values of one variable from another where there is a causal relationship between
 two variables
     
 ### Plot of the Dataset for Simple Linear Regression
+   - Below is a simple scatter plot of x versus y.
    ![Plot of the Dataset](/image/Dataset-SLR.png)
-   - A shortcut that greatly simplifies the calculation.
+   - We can see the relationship between x and y looks kind of linear. As in, we could probably draw a line somewhere diagonally from the bottom left of the plot to the top right to generally describe the relationship between the data.
+   - This is a good indication that using linear regression might be appropriate for this little dataset.
    
 ### Pyspark repositories :  
  *[1.NLP using pyspark in Jupyter notebook](/NLP_basics.ipynb)  
