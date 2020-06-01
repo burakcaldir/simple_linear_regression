@@ -22,6 +22,9 @@ two variables
    - This is a good indication that using linear regression might be appropriate for this little dataset.
    - With `simple linear regression` we want to model our data as follows:
                                    `y = B0 + B1 * x`
+                                   
+ ### Plot Predictions as a Line With Our Data.
+     ![Plot of the Dataset](/image/SLR-Model.png)
    
  ### References:  
    - https://machinelearningmastery.com
