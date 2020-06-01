@@ -25,8 +25,8 @@ two variables
                                    
  ### Plot Predictions as a Line With Our Data
  
-     - `Below is a simple scatter plot of x versus y.`
-      ![Plot Dataset](/image/SLR-Model.png)
+   - `Below is a simple scatter plot of x versus y.`     
+   ![Plot Dataset](/image/SLR-Model.png)
    
  ### References:  
    - https://machinelearningmastery.com
