@@ -23,7 +23,8 @@ two variables
    - With `simple linear regression` we want to model our data as follows:
                                    `y = B0 + B1 * x`
                                    
- ### Plot Predictions as a Line With Our Data.
+ ### Plot Predictions as a Line With Our Data
+ 
      - `Below is a simple scatter plot of x versus y.`
       ![Plot Dataset](/image/SLR-Model.png)
    
