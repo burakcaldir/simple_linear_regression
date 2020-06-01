@@ -59,6 +59,6 @@ two variables
  ### Spark & Hadoop :  
  *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
  ### References:  
-   - spark.apache.org
+   - https://machinelearningmastery.com
    - pypi.org  
    - databricks.com
