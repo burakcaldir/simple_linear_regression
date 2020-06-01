@@ -5,8 +5,8 @@
 values of one variable from another where there is a causal relationship between the
 two variables
 
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+First Header | Second Header
+------------ | -------------
     
 ### Plot of the Dataset for Simple Linear Regression
    - Below is a simple scatter plot of x versus y.
