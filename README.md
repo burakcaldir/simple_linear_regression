@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# *Simple Linear Regression*
   
 ## What is Simple Linear Regression?  
   Simple linear regression is a statistical method for obtaining a formula to predict
