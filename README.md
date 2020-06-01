@@ -28,6 +28,9 @@ two variables
    - `After making predictions we can plot these predictions as a line with our data. This gives us a visual idea of how well the line models our data.`     
    ![Plot Dataset](/image/SLR-Model.png)
    
+ ### Conclusion
+ - Linear Regression is an algorithm that every Machine Learning enthusiast must know and it is also the right place to start for people who want to learn Machine Learning as well. 
+   
  ### References:  
    - https://machinelearningmastery.com
   
