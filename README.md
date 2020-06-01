@@ -16,7 +16,7 @@ two variables
      3            | 2
      5            | 5
      
-   - Below is a simple scatter plot of x versus y.
+   - `Below is a simple scatter plot of x versus y.`
    ![Plot of the Dataset](/image/Dataset-SLR.png)
    - We can see the relationship between x and y looks kind of linear. As in, we could probably draw a line somewhere diagonally from the bottom left of the plot to the top right to generally describe the relationship between the data.
    - This is a good indication that using linear regression might be appropriate for this little dataset.
