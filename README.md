@@ -7,7 +7,7 @@ two variables
     
 ### Plot of the Dataset for Simple Linear Regression
    - How to calculate a simple linear regression step-by-step.
-   ![Plot of the Dataset](/images/Plot-of-the-Dataset-SLR.png)
+   ![Plot of the Dataset](/image/Dataset-SLR.png)
    ![Running Time Comparison](/image/runningtime.png)  
    - How to perform all of the calculations using a spreadsheet. 
    - How to make predictions on new data using your the model. 
