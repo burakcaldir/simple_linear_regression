@@ -11,7 +11,7 @@ two variables
 X            | Y
 ------------ | -------------
 1            | 1
-Content in the first column | Content in the second column
+2            | 3
    
    
    - Below is a simple scatter plot of x versus y.
