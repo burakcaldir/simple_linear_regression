@@ -8,7 +8,7 @@ two variables
 ### Plot of the Dataset for Simple Linear Regression
    - Below is the raw data.
    
-First        | Second
+X            | Y
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
