@@ -20,13 +20,9 @@ two variables
    ![Plot of the Dataset](/image/Dataset-SLR.png)
    - We can see the relationship between x and y looks kind of linear. As in, we could probably draw a line somewhere diagonally from the bottom left of the plot to the top right to generally describe the relationship between the data.
    - This is a good indication that using linear regression might be appropriate for this little dataset.
+   - With `simple linear regression` we want to model our data as follows:
+                                   `y = B0 + B1 * x`
    
-### Pyspark repositories :  
- *[1.NLP using pyspark in Jupyter notebook](/NLP_basics.ipynb)  
- *[1.K-means Clustering using pyspark in Jupyter notebook](/Kmeans_clustering.ipynb) 
- ### Spark & Hadoop :  
- *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
  ### References:  
    - https://machinelearningmastery.com
-   - pypi.org  
-   - databricks.com
+  
