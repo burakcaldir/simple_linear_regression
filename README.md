@@ -5,13 +5,10 @@
 values of one variable from another where there is a causal relationship between the
 two variables
 
-First Header | Second Header
------------- | -------------
-    
 ### Plot of the Dataset for Simple Linear Regression
    - Below is the raw data.
    
-  First Header | Second Header
+      X      |      Y
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
