@@ -5,8 +5,9 @@
 values of one variable from another where there is a causal relationship between the
 two variables
     
-### In this post, you will discover exactly how linear regression works step-by-step. After reading this post you will know:
-   - How to calculate a simple linear regression step-by-step. 
+### Plot of the Dataset for Simple Linear Regression
+   - How to calculate a simple linear regression step-by-step.
+   ![Plot of the Dataset](/images/Plot-of-the-Dataset-SLR.png)
    ![Running Time Comparison](/image/runningtime.png)  
    - How to perform all of the calculations using a spreadsheet. 
    - How to make predictions on new data using your the model. 
@@ -59,6 +60,6 @@ two variables
  ### Spark & Hadoop :  
  *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
  ### References:  
-   - spark.apache.org
+   - https://machinelearningmastery.com
    - pypi.org  
    - databricks.com
